@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078644732750",
+    "project_id": "greentraders-97759",
+    "storage_bucket": "greentraders-97759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078644732750:android:adae8382120e91d443641f",
+        "android_client_info": {
+          "package_name": "com.green_traders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078644732750-fpe07gmuaktc1a3huosoruhqr984p999.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn8Y-o0WNNL8DJQERG-Dz0MXN2Cp2CT8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078644732750-fpe07gmuaktc1a3huosoruhqr984p999.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
